@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialApp</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="Email">E-mail</string>
+    <string name="Password">Password</string>
+    <string name="RePassword">Re-Enter Password</string>
+
+</resources>
